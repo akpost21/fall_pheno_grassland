@@ -2,7 +2,7 @@
 
 Code used for analyses in this publication: 
 
-*Post, A.K., Hufkens, & Richardson, A.D. (in review). Predicting End-of-Season Timing Across Diverse North American Grasslands.*
+*Post, A.K. & Richardson, A.D. (in review). Predicting End-of-Season Timing Across Diverse North American Grasslands.*
 
 
 **For code to work, use my forked version of the "phenor" R package, available here:**
