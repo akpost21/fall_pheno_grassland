@@ -2,7 +2,7 @@
 
 Code used for analyses in this publication: 
 
-*Post, A.K. & Richardson, A.D. (Accepted). Predicting End-of-Season Timing Across Diverse North American Grasslands. Oecologia*
+*Post, A.K. & Richardson, A.D. (Accepted). Predicting End-of-Season Timing Across Diverse North American Grasslands. Oecologia.*
 
 
 **For code to work, use my forked version of the "phenor" R package, available here:**
